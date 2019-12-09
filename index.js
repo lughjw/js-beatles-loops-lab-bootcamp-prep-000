@@ -26,7 +26,7 @@ function iLoveTheBeatles(num) {
   do {
     retArr.push('I love the Beatles!')
     num++
-  } while(num <= 15)
+  } while(num < 15)
 
   return retArr
 }
