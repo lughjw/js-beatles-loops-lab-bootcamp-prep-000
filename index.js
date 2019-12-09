@@ -6,3 +6,11 @@ function theBeatlesPlay(musicians, instruments) {
     arr.push(`${musicians[i]} plays ${instruments[i]}`)
   }
 }
+
+function johnLennonFacts() {
+  
+}
+
+function iLoveTheBeatles(num) {
+  
+}
